@@ -20,3 +20,7 @@ Proyecto orientado al análisis estadístico de datos utilizando Python y Jupyte
 2. Abre el archivo .ipynb en Jupyter Notebook o JupyterLab.
 
 3. Ejecuta las celdas para realizar el análisis.
+
+## Notas
+- Asegúrate de instalar las bibliotecas necesarias (pandas, numpy, matplotlib).
+- Los datasets están incluidos en el repositorio.
